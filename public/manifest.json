@@ -1,0 +1,16 @@
+{
+  "name": "Tracker d'initiative",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "author": "Hakim Assouane",
+  "homepage_url": "https://github.com/hakimassouane2/custom-initiative-tracker-for-owlbear",
+  "icon": "/logo.png",
+  "description": "Un tracker d'initiative pour les parties de jeu de rôle en ligne.",
+  "action": {
+    "title": "Tracker d'initiative",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 129,
+    "width": 250
+  }
+}
